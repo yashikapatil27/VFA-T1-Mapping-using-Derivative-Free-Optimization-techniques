@@ -51,7 +51,6 @@ demo_novifast_image
 ```
 
 ## References
-## References
 
 1. Maurovich-Horvat, P., Ferencik, M., Voros, S., Merkely, B., & Hoffmann, U. (2018). Comprehensive plaque assessment by coronary CT angiography. *Nature Reviews Cardiology*, 15(6), 303-313. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6277233/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6277233/)
    
