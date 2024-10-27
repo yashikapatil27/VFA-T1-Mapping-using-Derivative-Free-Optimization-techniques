@@ -1,6 +1,6 @@
 # VFA T1 Mapping Using Derivative-Free Optimization Techniques
 
-This project was completed for the course MTH 574 and experiments with alternative derivative-free optimization methods for VFA T1 mapping in MRI, inspired by the NOVIFAST method.
+This project was completed for the course MTH 574, Spring'24, and experiments with alternative derivative-free optimization methods for VFA T1 mapping in MRI, inspired by the NOVIFAST method.
 
 ## Overview
 This repository contains MATLAB implementations for estimating T1 maps in magnetic resonance imaging (MRI) using various derivative free optimization techniques. It includes functions for implicit filtering, Nelder-Mead optimization, and a fast optimization algorithm known as Novifast. The scripts provide a framework to add noise to the synthetic signals and assess the impact of different signal-to-noise ratios (SNRs) on the estimated T1 maps.
